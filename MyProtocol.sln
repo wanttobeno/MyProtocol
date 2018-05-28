@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyProtocol", "MyProtocol\MyProtocol.vcproj", "{64201C6D-66E4-4645-AE34-37BD61049E65}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bigCheck", "bigCheck\bigCheck.vcproj", "{CE06D721-396B-4FAC-A0D6-B54098C20151}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -13,6 +15,10 @@ Global
 		{64201C6D-66E4-4645-AE34-37BD61049E65}.Debug|Win32.Build.0 = Debug|Win32
 		{64201C6D-66E4-4645-AE34-37BD61049E65}.Release|Win32.ActiveCfg = Release|Win32
 		{64201C6D-66E4-4645-AE34-37BD61049E65}.Release|Win32.Build.0 = Release|Win32
+		{CE06D721-396B-4FAC-A0D6-B54098C20151}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CE06D721-396B-4FAC-A0D6-B54098C20151}.Debug|Win32.Build.0 = Debug|Win32
+		{CE06D721-396B-4FAC-A0D6-B54098C20151}.Release|Win32.ActiveCfg = Release|Win32
+		{CE06D721-396B-4FAC-A0D6-B54098C20151}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
