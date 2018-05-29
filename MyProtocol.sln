@@ -5,6 +5,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyProtocol", "MyProtocol\My
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bigCheck", "bigCheck\bigCheck.vcproj", "{CE06D721-396B-4FAC-A0D6-B54098C20151}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bigCheckSimple", "bigCheckSimple\bigCheckSimple.vcproj", "{18DBA205-968D-4159-8688-6F54902F0194}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -19,6 +21,10 @@ Global
 		{CE06D721-396B-4FAC-A0D6-B54098C20151}.Debug|Win32.Build.0 = Debug|Win32
 		{CE06D721-396B-4FAC-A0D6-B54098C20151}.Release|Win32.ActiveCfg = Release|Win32
 		{CE06D721-396B-4FAC-A0D6-B54098C20151}.Release|Win32.Build.0 = Release|Win32
+		{18DBA205-968D-4159-8688-6F54902F0194}.Debug|Win32.ActiveCfg = Debug|Win32
+		{18DBA205-968D-4159-8688-6F54902F0194}.Debug|Win32.Build.0 = Debug|Win32
+		{18DBA205-968D-4159-8688-6F54902F0194}.Release|Win32.ActiveCfg = Release|Win32
+		{18DBA205-968D-4159-8688-6F54902F0194}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
